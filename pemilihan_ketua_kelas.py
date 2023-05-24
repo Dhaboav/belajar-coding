@@ -1,5 +1,6 @@
 import random
 
+# list ini dapat diubah sesuai kebutuhan anda.
 list_nama_calket = ["Falencia", "Amuro", "Randy", "Conan", 
                     "Aji", "Sanada", "Sasuke", "Naruto", 
                     "Kuro", "Shiro", "Hanabi", "Andy",
