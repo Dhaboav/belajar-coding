@@ -20,7 +20,10 @@ def login(user, password):
     data_user = {
         "Admin": "0",
         "Miko": "121203",
-        "Tissa": "Naga T3rbang"
+        "Tissa": "Naga T3rbang",
+        "Arthur": "Fantasy121203",
+        "Keqing_fake": "Liyue00RexLapis",
+        "Areka": "Aya2protect"
     }
 
     if user in data_user and password == data_user[user]:
