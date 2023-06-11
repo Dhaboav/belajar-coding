@@ -1,6 +1,7 @@
 penjelasan = """
-Get method pada dictionary digunakan untuk mencari dengan memasukan key value pada argument
-Ketika tidak ditemukan key value maka bisa dilakukan penggantian optional:
+Get method pada dictionary digunakan untuk mencari dengan memasukan key value 
+pada argument, Ketika tidak ditemukan key value maka bisa dilakukan penggantian 
+optional seperti dibawah ini:
 namaDict.get('key value', optional 2).
 untuk optional 2 bisa digunakan atau tidak.
 """
